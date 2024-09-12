@@ -1,5 +1,5 @@
 
-import Heroine from "./components/heroine";
+import Heroine from "./components/Heroine";
 import Navbar from "./components/navbar";
 import About from "./components/about";
 import Technologies from "./components/Technologies";
