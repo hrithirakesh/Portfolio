@@ -1,7 +1,7 @@
 
 import Heroine from "./components/Heroine";
 import Navbar from "./components/navbar";
-import About from "./components/about";
+import About from "./components/About";
 import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
 import Projects from "./components/Project";
