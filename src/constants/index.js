@@ -72,7 +72,7 @@ export const CONTACT = {
 export const EDUCATION = [
   {
     year: "2021-2025",
-    degree: "Bachelor of Science in Computer Science",
+    degree: "Bachelor of Technology in Computer Science",
     institution: "Sastra Deemed to be University",
     description: "Grade : 8.0 ",
     
